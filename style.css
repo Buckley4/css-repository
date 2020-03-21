@@ -1,0 +1,38 @@
+/*
+p{
+color:red;
+font-weight: bold;
+font-size: 30px;
+    }
+*/
+
+body {
+    
+background: green
+    
+}
+
+p,h2 {
+
+color:red;
+    
+    
+}
+
+h1 {
+    
+color: aqua    
+    
+}
+
+div p {
+font-weight: bold
+}
+
+#p1 {
+color: hotpink
+}
+
+.h2 {
+color: darkorange
+}
