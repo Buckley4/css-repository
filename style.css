@@ -6,11 +6,11 @@ font-size: 30px;
     }
 */
 
-body {
+/*body {
     
 background: green
     
-}
+}*/
 
 p,h2 {
 
@@ -35,4 +35,14 @@ color: hotpink
 
 .h2 {
 color: darkorange
+}
+
+div {
+border: 1px solid black;
+float: inherit;
+border-radius: 25px;
+}
+
+div ul {
+list-style-type: none
 }
